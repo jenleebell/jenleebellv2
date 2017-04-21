@@ -15,7 +15,7 @@ layout: default
   <div>
     <header>
       <ul class="tabs">
-        <li class="tabs__item">Home</li>
+        <li class="tabs__item">Main</li>
         <li class="tabs__item">Projects</li>
       </ul>
     </header>
@@ -27,7 +27,7 @@ layout: default
             <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
               <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
               <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
-              <span class="preview__more">Read More</span>
+              <span class="preview__more">Continue</span>
             </a>
           </li>
         {% endfor %}

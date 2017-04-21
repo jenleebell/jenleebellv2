@@ -3,7 +3,7 @@ layout: post
 title: "about me"
 date: 2016-02-19
 categories:
-  - Juice
+  - Me
 description:
 image: http://jenleebell.com/img/talltree.JPG
 image-sm: https://unsplash.it/500/300?image=1003
