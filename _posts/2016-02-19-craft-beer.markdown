@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome"
+title: "about me"
 date: 2016-02-19
 categories:
   - Juice
@@ -8,7 +8,11 @@ description:
 image: http://jenleebell.com/img/talltree.JPG
 image-sm: https://unsplash.it/500/300?image=1003
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+hello there. i dabble in design and code.
+
+when i am not coding up a storm, you can find me on my bike, reading a book, climbing a rock, eating a burger, or perhaps on an adventure somewhere in the world. likely, i am petting the cat.
+
+i knowruby rails css javascript git mysql photoshop indesign illustrator
 
 <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>

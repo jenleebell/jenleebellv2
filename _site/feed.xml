@@ -5,13 +5,17 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2017 13:36:04 -0700</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 13:36:04 -0700</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2017 13:44:08 -0700</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2017 13:44:08 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Welcome</title>
-        <description>&lt;p&gt;Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.&lt;/p&gt;
+        <title>about me</title>
+        <description>&lt;p&gt;hello there. i dabble in design and code.&lt;/p&gt;
+
+&lt;p&gt;when i am not coding up a storm, you can find me on my bike, reading a book, climbing a rock, eating a burger, or perhaps on an adventure somewhere in the world. likely, i am petting the cat.&lt;/p&gt;
+
+&lt;p&gt;i knowruby rails css javascript git mysql photoshop indesign illustrator&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
