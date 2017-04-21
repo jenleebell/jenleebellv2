@@ -5,7 +5,7 @@ date: 2016-01-03
 categories:
   - Projects
 description:
-image: http://jenleebell.com/img/talltree.JPG
+image: http://jenleebell.com/img/hood.jpg
 image-sm: https://unsplash.it/500/300?image=1003
 ---
 hello there. i dabble in design and code.
