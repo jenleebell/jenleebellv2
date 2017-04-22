@@ -5,7 +5,7 @@ date: 2016-02-19
 categories:
 description:
 image: http://jenleebell.com/img/talltree.JPG
-image-sm: https://unsplash.it/500/300?image=1003
+image-sm: http://jenleebell.com/img/mika.jpg
 ---
 Oh hello there. I dabble in design and code.
 
