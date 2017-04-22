@@ -255,6 +255,7 @@
   justify-content: space-between;
   padding-left: 2em;
   padding-right: 2em;
+  background-color: $color-alpha--light;
 
   @media (min-width: $mq-sm) {
     flex-direction: row;
