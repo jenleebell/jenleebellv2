@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2016/02/19/craft-beer/</loc>
+<loc>/2016/02/19/aboutme/</loc>
 <lastmod>2016-02-19T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -23,8 +23,5 @@
 </url>
 <url>
 <loc>/category/clients/</loc>
-</url>
-<url>
-<loc>/category/me/</loc>
 </url>
 </urlset>
