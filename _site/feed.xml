@@ -5,32 +5,38 @@
     <description>Jennifer Lee Bell. Web developer.</description>
     <link>jenleebell.com/</link>
     <atom:link href="jenleebell.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2017 23:37:53 -0700</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 23:37:53 -0700</lastBuildDate>
+    <pubDate>Sun, 23 Apr 2017 11:34:37 -0700</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2017 11:34:37 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>about me</title>
         <description>&lt;p&gt;Oh hello there. I dabble in design and code.&lt;/p&gt;
 
-&lt;p&gt;When I am not coding up a storm, you can find me on my bike, reading a book, eating ice cream, or perhaps on an adventure somewhere in the world.&lt;/p&gt;
-
-&lt;p&gt;Most likely, I am petting the cat. Speaking of which, please meet The Kii.&lt;/p&gt;
+&lt;p&gt;This corner of the internet showcases some of the clients I’ve worked with and projects I’ve learned from.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;http://jenleebell.com/img/mika.jpg&quot; alt=&quot;Me and my spirit animal&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;h4&gt;Skills&lt;/h4&gt;
-&lt;p&gt;ruby rails css javascript git mysql photoshop indesign illustrator&lt;/p&gt;
-
-&lt;h4&gt;Quotes&lt;/h4&gt;
-&lt;p&gt;See what others are saying about jenleebell.com&lt;/p&gt;
+&lt;p&gt;When I am not coding up a storm, you can find me on my bike, reading a book, eating ice cream, or perhaps on an adventure somewhere in the world. Most likely, I am petting the cat. All photographs you see are snippets of those adventures.&lt;/p&gt;
 
 &lt;blockquote&gt;
   Looks rad.
   &lt;cite&gt;Sam Parr, CEO of the Hustle&lt;/cite&gt;
 &lt;/blockquote&gt;
+
+&lt;footer class=&quot;section-padding--sm footer&quot;&gt;
+  &lt;a class=&quot;footer__archive&quot;&gt;&lt;/a&gt;
+  &lt;ul class=&quot;footer__social&quot;&gt;
+    &lt;li&gt;&lt;a class=&quot;fa fa-lg fa-envelope-o&quot; href=&quot;mailto:jenleebell@gmail.com&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a class=&quot;fa fa-lg fa-github&quot; href=&quot;https://github.com/jenleebell&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a class=&quot;fa fa-lg fa-linkedin-square&quot; href=&quot;https://www.linkedin.com/in/jenleebell/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/footer&gt;
 </description>
         <pubDate>Fri, 19 Feb 2016 00:00:00 -0800</pubDate>
         <link>jenleebell.com/2016/02/19/aboutme/</link>
@@ -41,7 +47,17 @@
     
       <item>
         <title>creation: krages.com</title>
-        <description>&lt;p&gt;The client wanted a simple, minimalistic yet modern site. He had created his own and wanted the basic html structure to stay the same. I built this from ground up using simple html and css principles so he could make changes on his own.&lt;/p&gt;
+        <description>&lt;p&gt;The client wanted a clean, simple, yet modern look for his law practice.&lt;/p&gt;
+
+&lt;p&gt;He was familiar with basic web programming and had created his previous website on his own, so he desired the technologies used to be consistent with what he had. For this reason, I built this from the ground up using only html and css.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;http://www.krages.com&quot;&gt;&lt;img src=&quot;http://jenleebell.com/img/krages.jpg&quot; alt=&quot;Krages dot com&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;He is also a photographer, so his photographs throughout his site to showcase his work.&lt;/p&gt;
+
+&lt;p&gt;You may view this work &lt;a href=&quot;http://www.krages.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jan 2016 00:00:00 -0800</pubDate>
         <link>jenleebell.com/2016/01/19/bertkrages/</link>
@@ -54,7 +70,15 @@
     
       <item>
         <title>project: stack overclone</title>
-        <description>&lt;p&gt;This is the time I decided to copy stack overflow.&lt;/p&gt;
+        <description>&lt;p&gt;This is the time I decided to mimic Stack Overflow.&lt;/p&gt;
+
+&lt;p&gt;The goal was to re-create the basic structure and format of Stack Overflow. The backend is written in rails. User authentication was written specifically for this program.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://blooming-wave-88465.herokuapp.com/&quot;&gt;&lt;img src=&quot;http://jenleebell.com/img/stackoverclone.jpg&quot; alt=&quot;Stack Overclone Screenshot&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Feel free to test out this functionality &lt;a href=&quot;https://blooming-wave-88465.herokuapp.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 00:00:00 -0800</pubDate>
         <link>jenleebell.com/2016/01/03/stackoverclone/</link>

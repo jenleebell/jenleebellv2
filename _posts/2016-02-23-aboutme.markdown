@@ -9,23 +9,25 @@ image-sm: http://jenleebell.com/img/mika.jpg
 ---
 Oh hello there. I dabble in design and code.
 
-When I am not coding up a storm, you can find me on my bike, reading a book, eating ice cream, or perhaps on an adventure somewhere in the world.
-
-Most likely, I am petting the cat. Speaking of which, please meet The Kii.
+This corner of the internet showcases some of the clients I've worked with and projects I've learned from.
 
 <figure>
 <img src="http://jenleebell.com/img/mika.jpg" alt="Me and my spirit animal"/>
 </figure>
 
-<h4>Skills</h4>
-ruby rails css javascript git mysql photoshop indesign illustrator
-
-
-
-<h4>Quotes</h4>
-See what others are saying about jenleebell.com
+When I am not coding up a storm, you can find me on my bike, reading a book, eating ice cream, or perhaps on an adventure somewhere in the world. Most likely, I am petting the cat. All photographs you see are snippets of those adventures.
 
 <blockquote>
   Looks rad.
   <cite>Sam Parr, CEO of the Hustle</cite>
 </blockquote>
+
+<footer class="section-padding--sm footer">
+  <a class="footer__archive"></a>
+  <ul class="footer__social">
+    <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+    {% for social in site.social %}
+      <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+    {% endfor %}
+  </ul>
+</footer>
