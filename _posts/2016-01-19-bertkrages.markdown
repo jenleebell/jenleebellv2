@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "creation: krages.com"
+title: "client: krages.com"
 date: 2016-01-19
 categories:
   - Clients
