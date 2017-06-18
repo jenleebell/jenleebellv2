@@ -4,7 +4,7 @@
 $font-header: 'Space Mono', monospace;
 $font-body: 'Inconsolata', monospace;
 $font-post: 'Lora', serif;
-$font-mainheader: 'Cedarville Cursive', cursive;
+$font-mainheader: 'Comfortaa';
 
 $color-alpha: #738761;
 $color-alpha--light: #F1F1F1;
@@ -166,4 +166,10 @@ ol, ul {
   color: $color-white;
   background-color: $color-alpha;
   text-shadow: none;
+}
+
+// other
+
+.motto {
+  font-family: $font-mainheader !important;
 }
